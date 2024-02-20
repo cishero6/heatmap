@@ -1,0 +1,1 @@
+([('macos', '/Users/glebilitsinskiy/spbu/heatmap/dist/macos', 'EXECUTABLE')],)
